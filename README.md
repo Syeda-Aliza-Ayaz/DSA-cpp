@@ -25,18 +25,18 @@ This repository tracks my learning journey in **Data Structures & Algorithms usi
 
 ## 🗂️ Folder Structure
 
-DSA-cpp/
-│
-├── arrays/
-│ ├── intersection.cpp
-│ ├── sum_and_product.cpp
-│ ├── swap_max_min.cpp
-│ ├── unique_values.cpp
-│ └── main.exe (for testing)
-│
-├── vectors/
-│ ├── vector_implementation.cpp ← my custom vector class
-│ └── main.exe (for testing)
+DSA-cpp/<br>
+│<br>
+├── arrays/<br>
+│ ├── intersection.cpp<br>
+│ ├── sum_and_product.cpp<br>
+│ ├── swap_max_min.cpp<br>
+│ ├── unique_values.cpp<br>
+│ └── main.exe (for testing)<br>
+│<br>
+├── vectors/<br>
+│ ├── vector_implementation.cpp ← my custom vector class<br>
+│ └── main.exe (for testing)<br>
 
 
 ---
@@ -69,7 +69,7 @@ g++ arrays/intersection.cpp -o arrays/intersection.exe
 ./arrays/intersection.exe
 ```
 
-📌 Note
-All code is written for educational purposes as I learn.
+## 📌 Note
+All code is written for educational purposes as I learn.<br>
 I'm open to suggestions and feedback from fellow learners! 😊
 
