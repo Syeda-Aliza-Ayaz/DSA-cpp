@@ -19,7 +19,8 @@ This repository tracks my learning journey in **Data Structures & Algorithms usi
 | 06 | Binary Number System |
 | 07 | Bitwise Operators |
 | 08 | Array Data Structure |
-| 09 | Vectors (Array Part 2) – currently learning 📌 |
+| 09 | Vectors (Array Part 2)|
+| 10 | Kadane's Algorithm - Maximum Subarray Sum |
 
 ---
 
@@ -37,12 +38,16 @@ DSA-cpp/<br>
 ├── vectors/<br>
 │ ├── vector_implementation.cpp ← my custom vector class<br>
 │ └── main.exe (for testing)<br>
+├── Kadane's Algorithm/<br>
+│ ├── maximum_subarray_sum.cpp<br>
+│ └── main.exe (for testing)<br>
 
 
 ---
 
 ## 🚀 Highlights
 
+- ✅ Complete understanding of Kadane's Algorithm
 - ✅ Fully working custom `vector<T>` class implemented from scratch using dynamic arrays and templates
 - ✅ Chapter 8 homework problems solved with clean and modular C++ code
 - ✅ Files compiled and tested on Windows (`.exe` for quick execution)
